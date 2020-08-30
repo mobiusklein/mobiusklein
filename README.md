@@ -12,7 +12,7 @@ I'm actively working on these projects. They get updated frequently. Please cont
 - [glypy](https://github.com/mobiusklein/glypy): A glycoinformatics library for reading, writing, and manipulating glycans, as well as access to glycoinformatics resources around the web.
 
 
-### :house: Supporting Libraries
+### Supporting Libraries
 These libraries receive updates as needed, but their purpose is to serve my other active projects. If they look useful to you, please let me know.
 - [psims](https://github.com/mobiusklein/glycresoft): Write HUPO PSI-MS mzML and mzIdentML XML formats.
 - [brainpy](https://github.com/mobiusklein/brainpy): A library to generate coarse theoretical isotopic patterns.
