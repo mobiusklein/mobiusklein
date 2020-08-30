@@ -1,7 +1,5 @@
 ## Hello
-
-I'm a bioinformatician who works with mass spectrometry data. My did my PhD in glycomics and glycoproteomics, finding new ways to mix supporting information to dig deeper into complex biological samples. My professional work now involves using that knowledge to analyze immunopeptidomics data to help develop better cancer vaccines.
-
+I'm a bioinformatician who works with mass spectrometry data. My did my PhD developing computational methods glycomics and glycoproteomics, finding integrated-omics strategies to dig deeper into complex biological samples. My professional work now involves using that knowledge to analyze immunopeptidomics data to help develop better cancer vaccines.
 ### :microscope: Active Projects
 I'm actively working on these projects. They get updated frequently. Please contact me if you want to know more about them or if you find them useful!
 - [glycresoft](https://github.com/mobiusklein/glycresoft): A glycan and glycopeptide LC-MS/MS search engine
