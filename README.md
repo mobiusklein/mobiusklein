@@ -1,13 +1,13 @@
-I'm a bioinformatician who works with mass spectrometry data. My PhD was dedicated to developing computational methods for glycomics and glycoproteomics, finding integrated-omics strategies to dig deeper into complex biological samples. My professional work now involves using that knowledge to analyze immunopeptidomics data to help develop better cancer vaccines.
+I'm a bioinformatician who works with mass spectrometry data. My PhD was dedicated to developing computational methods for glycomics and glycoproteomics, finding integrated-omics strategies to dig deeper into complex biological samples.
+My professional work involves using that knowledge to analyze immunopeptidomics data to help develop better vaccines for personalized cancer immunotherapy and multi-strain infectious disease protection.
+
 :email: Email me if you want to discuss MS data processing techniques, glycoinformatics, or antigenomics
+
 ### :microscope: Active Projects
-I'm actively working on these projects. They get updated frequently. Please contact me if you want to know more about them or if you find them useful!
-- [glycresoft](https://github.com/mobiusklein/glycresoft): A glycan and glycopeptide LC-MS/MS search engine
-- [ms_deisotope](https://github.com/mobiusklein/ms_deisotope): A mass spectrometry library and executable for data access, signal processing, deisotoping, and charge state deconvolution suite. Actively working to deconvolute raw ion mobility data supporting Waters Cyclic IMS and Bruker TIMS-TOF data.
-- [glypy](https://github.com/mobiusklein/glypy): A glycoinformatics library for reading, writing, and manipulating glycans, as well as access to glycoinformatics resources around the web.
-### Supporting Libraries
-These libraries receive updates as needed, but their purpose is to serve my other active projects. If they look useful to you, please let me know.
-- [psims](https://github.com/mobiusklein/glycresoft): Write HUPO PSI-MS mzML and mzIdentML XML formats.
-- [brainpy](https://github.com/mobiusklein/brainpy): A library to generate coarse theoretical isotopic patterns.
-- [ms_peak_picker](https://github.com/mobiusklein/ms_peak_picker): A low level library for signal processing of raw mass spectra
-- [glycopeptidepy](https://github.com/mobiusklein/glycopeptidepy): A library to model glycopeptides and how they fragment. An extension to `glypy`.
+I am actively working on migrating much of the I/O and signal processing code I have written in Python/C to Rust
+- [`mzdata`](https://github.com/mobiusklein/mzdata) - The I/O and spectrum data layer, including some fancy iterators and convenience functions for reading and writing mass spectrometry data files.
+- [`mzpeaks`](https://github.com/mobiusklein/mzpeaks) - Types and traits for generic representation of peaks and features for mass spectrometry, including searchable collections and spatial data structures.
+- [`mzsignal`](https://github.com/mobiusklein/mzsignal) - Algorithms for low-level signal processing of mass spectra and temporal traces like chromatograms or mobilograms, including peak picking, feature extraction, signal averaging, smoothing and denoising.
+- [`mzdeisotope`](https://github.com/mobiusklein/mzdeisotope) - Algorithms for charge state deconvolution and deisotoping of mass spectra and feature maps.
+- [`mass-fragment-index`](https://github.com/mobiusklein/mass-fragment-index) - Data structures for large-scale searching of precursor-product collections suitable for fragment indices, spectral libraries, or similar data. Includes fast-to-search on-disk serialization.
+
