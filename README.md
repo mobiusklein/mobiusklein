@@ -2,8 +2,6 @@ I'm a bioinformatician who works with mass spectrometry data. My PhD was dedicat
 My professional work has involved using that knowledge to analyze immunopeptidomics data to help develop better vaccines for personalized cancer immunotherapy and multi-strain infectious disease protection, using a combination deep learning,
 population sampling, and sequence conservation models.
 
-🔔 I am actively seeking a new position in bioinformatics or a related domain.
-
 📧 Email me if you want to discuss MS data processing techniques, glycoinformatics, or antigenomics
 
 ## :microscope: Active Projects
